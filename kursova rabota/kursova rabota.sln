@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kursova rabota", "kursova rabota\kursova rabota.csproj", "{CF7548C4-DE03-45F1-8C03-AE7D0D685800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursovaLibrary", "KursovaLibrary\KursovaLibrary.csproj", "{FA44749B-D4AE-41AB-8A3B-161FBA8BC890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7548C4-DE03-45F1-8C03-AE7D0D685800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7548C4-DE03-45F1-8C03-AE7D0D685800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7548C4-DE03-45F1-8C03-AE7D0D685800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7548C4-DE03-45F1-8C03-AE7D0D685800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA44749B-D4AE-41AB-8A3B-161FBA8BC890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA44749B-D4AE-41AB-8A3B-161FBA8BC890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA44749B-D4AE-41AB-8A3B-161FBA8BC890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA44749B-D4AE-41AB-8A3B-161FBA8BC890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A36FFA9A-8EDE-464D-8F63-06C0405C864A}
+	EndGlobalSection
+EndGlobal
